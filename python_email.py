@@ -21,5 +21,5 @@ try:
 	print("Successfully sent email")
 except Exception:  
 	print("Error: unable to send email")
-smtpObj.quit()
-
+smtpObj。退出（）
+#https://wyp8711.blogspot.com/2020/02/python-ispsmtpemail.html
